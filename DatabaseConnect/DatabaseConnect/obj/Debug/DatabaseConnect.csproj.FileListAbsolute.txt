@@ -1,0 +1,10 @@
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.exe.config
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.exe
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.pdb
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csprojAssemblyReference.cache
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.Form1.resources
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.Properties.Resources.resources
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csproj.GenerateResource.cache
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csproj.CoreCompileInputs.cache
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.exe
+C:\Users\DİZMAN\Desktop\veri tabanı bağlantı\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.pdb
